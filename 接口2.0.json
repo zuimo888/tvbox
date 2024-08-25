@@ -1,0 +1,588 @@
+{
+  "wallpaper": "https://tuapi.eees.cc/api.php?category\u003dfengjing\u0026type\u003d302",
+  "homepage": "https://github.com/hjdhnx/hipy-server",
+  "homeLogo": "./img/logo500x200-1.png",
+  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar;md5;20d2ee18388ea23295700d9cfb6648c8",
+  "warningText": "欢迎使用4K云，祝您观影愉快",
+  "sites": [
+    {
+      "key": "酷酷",
+      "name": "奇迹云科技vip🩸云影-💯┃4K",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704761840381/c (1).txt;md5;bb155c3f0133bbce4756ad52003f5968",
+      "playerType": "2",
+      "api": "csp_XBPQ",
+      "ext": {
+        "请求头": "User-Agent$okhttp/3.12.11",
+        "分类": "🩸极速4K电影\u0026🩸极速4K电视剧\u0026🩸极速4K综艺\u0026🩸极速4K动漫\u0026🩸极速4K老剧",
+        "分类值": "1\u00262\u00263\u00264\u00265",
+        "分类url": "http://122.228.85.203:3366/api.php/app/video?tid\u003d{cateId}\u0026class\u003d{class}\u0026area\u003d{area}\u0026lang\u003d{lang}\u0026year\u003d{year}\u0026limit\u003d18\u0026pg\u003d{catePg}",
+        "数组二次截取": "list\":[\u0026\u0026]",
+        "数组": "{\u0026\u0026}",
+        "图片": "vod_pic\"*\"\u0026\u0026\"",
+        "标题": "vod_name\"*\"\u0026\u0026\"",
+        "副标题": "vod_remarks\"*\"\u0026\u0026\"",
+        "链接": "http://122.228.85.203:3366/api.php/app/video_detail?id\u003d+vod_id\":\u0026\u0026,",
+        "搜索url": "http://122.228.85.203:3366/api.php/app/search?text\u003d{wd}\u0026pg\u003d",
+        "搜索模式": "1",
+        "搜索二次截取": "list\":[\u0026\u0026]",
+        "搜索数组": "{\u0026\u0026}",
+        "搜索图片": "vod_pic\"*\"\u0026\u0026\"",
+        "搜索标题": "vod_name\"*\"\u0026\u0026\"",
+        "搜索副标题": "vod_remarks\"*\"\u0026\u0026\"",
+        "搜索链接": "http://122.228.85.203:3366/api.php/app/video_detail?id\u003d+vod_id\":\u0026\u0026,",
+        "影片类型": "vod_class\"*\"\u0026\u0026\"",
+        "导演": "vod_director\"*\"\u0026\u0026\"",
+        "主演": "vod_actor\"*\"\u0026\u0026\"",
+        "简介": "vod_content\"*\"\u0026\u0026\"",
+        "线路数组": "vod_play_from\":\u0026\u0026,",
+        "线路标题": "关注【奇迹云科技vip】极速云4k",
+        "播放数组": "vod_play_url\":\u0026\u0026,[替换:\"\u003e\u003e链表题#$\u003e\u003e题链#\\#\u003e\u003e链表表题]",
+        "播放列表": "表\u0026\u0026表",
+        "播放标题": "题\u0026\u0026题",
+        "播放链接": "http://jxla.cc.33love.cn/api/?key\u003dfJGYbiT5RFwCQeISvZ\u0026url\u003d+链\u0026\u0026链",
+        "跳转播放链接": "url\": \"\u0026\u0026\"",
+        "过滤词": "51.la#cnzz.com#baidu.com#bilibili.com",
+        "播放请求头": "User-Agent$Mozilla/5.0 (Linux; Android 13) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Mobile Safari/537.36uacq",
+        "免嗅": "1"
+      }
+    },
+    {
+      "key": "芒果自家4k",
+      "name": "🩸云自研发4K-💯┃vip",
+      "type": 3,
+      "playerType": 1,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy2.min.js",
+      "ext": "./芒果视频.js"
+    },
+    {
+      "key": "芒果视频4k",
+      "name": "🩸云自建4k-💯┃VIP",
+      "type": 3,
+      "playerType": 1,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy2.min.js",
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/芒果视频.js"
+    },
+    {
+      "key": "4K",
+      "name": "🩸云自立4K-💯┃vip",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "playerType": "2",
+      "api": "csp_XBPQ",
+      "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704761840381/c (1).txt;md5;bb155c3f0133bbce4756ad52003f5968",
+      "ext": {
+        "请求头": "User-Agent$Mozilla/5.0 (iPhone; CPU iPhone OS 15_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+        "编码": "UTF-8",
+        "主页url": "https://4k-av.com",
+        "首页": "120",
+        "起始页": "1",
+        "分类url": "/{cateId}{class}/page-{catePg}.html[https://4k-av.com/{cateId}{class}];;rcS1",
+        "分类": "💧极速云4k电影\u0026💧极速云4k剧集",
+        "分类值": "movie\u0026tv",
+        "数组": "tags\"\u003e\u0026\u0026\u003c/a\u003e",
+        "标题": "alt\u003d\"\u0026\u0026海报",
+        "图片": "src\u003d\"\u0026\u0026\"",
+        "副标题": "标签:\u0026\u0026\u003c/label\u003e",
+        "链接": "href\u003d\"\u0026\u0026\"",
+        "影片年代": "年份:\u0026\u0026\u003c/a\u003e",
+        "影片地区": "片长:\u0026\u0026\u003c/label\u003e",
+        "影片类型": "标签:\u0026\u0026\u003c/div\u003e",
+        "状态": "videodetail\"\u003e\u0026\u0026\u003c/label\u003e",
+        "简介": "cnline\"\u003e\u0026\u0026\u003c/p\u003e",
+        "线路数组": "videoinfo\"\u003e\u0026\u0026\u003c/div\u003e",
+        "线路标题": "极速云4K",
+        "播放二次截取": "infomain\"\u003e\u0026\u0026reidnull[替换:href\u003e\u003ertlist\"\u003e\u003cimg\u003cspan\u003e第1集\u003c/span\u003esrc#poster.jpg\u003e\u003e\"\u003c/li\u003e\u003c/ul\u003e]",
+        "播放数组": "rtlist\"\u003e\u0026\u0026\u003c/ul\u003e",
+        "倒序": "0",
+        "播放列表": "\u003cimg\u0026\u0026\u003c/li\u003e[替换:screenshot.jpg\u003e\u003e空]",
+        "播放标题": "\u003cspan*\u003e\u0026\u0026\u003c/span\u003e",
+        "播放链接": "src\u003d\"\u0026\u0026\"",
+        "跳转播放链接": "\u003csource src\u003d\"\u0026\u0026\"",
+        "搜索请求头": "User-Agent$Mozilla/5.0 (iPhone; CPU iPhone OS 15_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+        "搜索url": "/s?q\u003d{wd}",
+        "搜索模式": "1",
+        "搜索标题": "title\u003d\"\u0026\u0026/",
+        "搜索图片": "src\u003d\"\u0026\u0026\"",
+        "搜索副标题": "标签:\u0026\u0026\u003c/label\u003e",
+        "搜索链接": "href\u003d\"\u0026\u0026\""
+      }
+    },
+    {
+      "key": "JS",
+      "name": "🔱限时💫┃🩸4K",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "./js/4KAV.js"
+    },
+    {
+      "key": "07104K-剧院",
+      "name": "🔱体验💫┃🩸4K",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "./js/4K剧院.js"
+    },
+    {
+      "key": "csp_LiteApple",
+      "name": "🏅☁️独尊💯┃🩸4k蓝光",
+      "type": 3,
+      "searchable": 1,
+      "api": "csp_LiteApple",
+      "jar": "./spider.jar",
+      "playerType": 1,
+      "filterable": 1
+    },
+    {
+      "key": "csp_New6v云",
+      "name": "🏅☁️臻速💯┃🩸4k蓝光",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/影港磁力.json",
+      "jar": "./lib/meow4.jar;md5;369DE8C4321A5C0ED6E7497F93863319"
+    },
+    {
+      "key": "csp_XBPQ_6V",
+      "name": "🏅☁️专享💯┃🩸4k蓝光",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "./vip.jar",
+      "ext": "./yun6v.json"
+    },
+    {
+      "key": "py_山海经",
+      "name": "🏅☁️魂海💯┃🩸4k蓝光",
+      "type": 3,
+      "api": "py_gaoqing",
+      "jar": "./spider.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://d.kstore.space/download/6509/lib/%E8%A5%BF%E7%8E%8B%E6%AF%8D.py"
+    },
+    {
+      "key": "神仙影视",
+      "name": "🏅☁️珍藏💯┃🩸4k蓝光",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "./sx.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "分类url": "https://ys.sxtv.top/index.php/vod/show/id/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
+        "分类": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$5#4K电影$36#邵氏电影$37"
+      }
+    },
+    {
+      "key": "ext",
+      "name": "🩸严🈲盗取接口获利🩸",
+      "type": 3,
+      "api": "csp_DuoX",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "hipy_js_voflix",
+      "name": "严🈲盗取售卖，后果自负",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 33,
+      "ext": "./lib/voflix.js"
+    }
+  ],
+  "parses": [
+    {
+      "name": "聚合1",
+      "type": 3,
+      "url": "Demo"
+    },
+    {
+      "name": "云独家ymvip-4k解析❶",
+      "type": 0,
+      "url": "https://jx.xmflv.com/?url\u003d",
+      "ext": {
+        "header": {
+          "user-agent": "Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/110.0.0.0Safari/537.36Edg/110.0.1587.57"
+        }
+      }
+    },
+    {
+      "name": "🥭自研.自建vip解析4k专线",
+      "type": "1",
+      "url": "http://llyh.xn--yi7aa.top/api/?key\u003d5b317c16d457b31a3150d87c0a362a9e\u0026url\u003d",
+      "flag": [
+        "LXTX"
+      ],
+      "header": {
+        "User-Agent": "Dalvik/2.1.0"
+      }
+    },
+    {
+      "name": "🥭测试自研.自建vip解析4k专线",
+      "type": "1",
+      "url": "https://jx.xmflv.com/?url\u003d",
+      "flag": [
+        "LXTX"
+      ],
+      "header": {
+        "User-Agent": "Dalvik/2.1.0"
+      }
+    },
+    {
+      "name": "云仓🥭4k",
+      "type": 0,
+      "url": "https://jx.xmflv.com/?url\u003d",
+      "ext": {
+        "header": {
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"
+        }
+      }
+    },
+    {
+      "name": "云仓4K",
+      "type": 1,
+      "url": "http://www.mpanso.com/woainiba.php?url\u003d",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "sohu",
+          "搜狐",
+          "letv",
+          "乐视",
+          "mgtv",
+          "芒果",
+          "tnmb",
+          "seven",
+          "bilibili",
+          "1905"
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.9.1"
+        }
+      }
+    },
+    {
+      "name": "云仓4K2",
+      "type": 1,
+      "url": "http://www.mpanso.com/62-1.php?url\u003d",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "sohu",
+          "搜狐",
+          "letv",
+          "乐视",
+          "mgtv",
+          "芒果",
+          "tnmb",
+          "seven",
+          "bilibili",
+          "1905"
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.9.1"
+        }
+      }
+    }
+  ],
+  "doh": [
+    {
+      "name": "Google",
+      "url": "https://dns.google/dns-query",
+      "ips": [
+        "8.8.4.4",
+        "8.8.8.8"
+      ]
+    },
+    {
+      "name": "Cloudflare",
+      "url": "https://cloudflare-dns.com/dns-query",
+      "ips": [
+        "1.1.1.1",
+        "1.0.0.1",
+        "2606:4700:4700::1111",
+        "2606:4700:4700::1001"
+      ]
+    },
+    {
+      "name": "AdGuard",
+      "url": "https://dns.adguard.com/dns-query",
+      "ips": [
+        "94.140.14.140",
+        "94.140.14.141"
+      ]
+    },
+    {
+      "name": "DNSWatch",
+      "url": "https://resolver2.dns.watch/dns-query",
+      "ips": [
+        "84.200.69.80",
+        "84.200.70.40"
+      ]
+    },
+    {
+      "name": "Quad9",
+      "url": "https://dns.quad9.net/dns-quer",
+      "ips": [
+        "9.9.9.9",
+        "149.112.112.112"
+      ]
+    }
+  ],
+  "rules": [
+    {
+      "name": "kk",
+      "hosts": [
+        "kuaikan"
+      ],
+      "regex": [
+        "5",
+        "20.123",
+        "20.167",
+        "#EXT-X-DISCONTINUITY\\r*\\n*((?!#EXT-X-DISCONTINUITY)[\\s\\S])*?#EXT-X-KEY:METHOD((?!#EXT-X-DISCONTINUITY)[\\s\\S])*?#EXT-X-DISCONTINUITY"
+      ]
+    },
+    {
+      "name": "yQK",
+      "hosts": [
+        "ydd"
+      ],
+      "regex": [
+        "18.4",
+        "15.1666",
+        "16.5333"
+      ]
+    },
+    {
+      "name": "yqk",
+      "hosts": [
+        "yqk"
+      ],
+      "regex": [
+        "18.4",
+        "15.1666",
+        "#EXT-X-DISCONTINUITY\\r*\\n*((?!#EXT-X-DISCONTINUITY)[\\s\\S])*?#EXT-X-CUE-OUT((?!#EXT-X-DISCONTINUITY)[\\s\\S])*?#EXT-X-CUE-IN"
+      ]
+    },
+    {
+      "name": "sn",
+      "hosts": [
+        "suonizy"
+      ],
+      "regex": [
+        "#EXTINF.*?\\s+.*?original.*?\\.ts\\s+",
+        "15.1666",
+        "15.2666",
+        "16.3333",
+        "15.266667"
+      ]
+    },
+    {
+      "name": "bf",
+      "hosts": [
+        "bfzy"
+      ],
+      "regex": [
+        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY"
+      ]
+    },
+    {
+      "name": "xx",
+      "hosts": [
+        "aws.ulivetv.net"
+      ],
+      "regex": [
+        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:8,[\\s\\S]*?#EXT-X-DISCONTINUITY"
+      ]
+    },
+    {
+      "name": "lz",
+      "hosts": [
+        "vip.lz",
+        "hd.lz",
+        "v.cdnlz",
+        "yzzy1.play"
+      ],
+      "regex": [
+        "18.5333",
+        "19.52",
+        "18.6666"
+      ]
+    },
+    {
+      "name": "ff",
+      "hosts": [
+        "vip.ffzy",
+        "hd.ffzy",
+        "ffzy"
+      ],
+      "regex": [
+        "25.0666",
+        "25.08",
+        "20.52",
+        "25.1",
+        "25.1999"
+      ]
+    },
+    {
+      "name": "hs",
+      "hosts": [
+        "huoshan.com"
+      ],
+      "regex": [
+        "item_id\u003d"
+      ]
+    },
+    {
+      "name": "dy",
+      "hosts": [
+        "douyin.com"
+      ],
+      "regex": [
+        "is_play_url\u003d"
+      ]
+    },
+    {
+      "name": "nm",
+      "hosts": [
+        "toutiaovod.com"
+      ],
+      "regex": [
+        "video/tos/cn"
+      ]
+    },
+    {
+      "name": "cl",
+      "hosts": [
+        "magnet"
+      ],
+      "regex": [
+        "最 新",
+        "直 播",
+        "更 新"
+      ]
+    }
+  ],
+  "lives": [
+    {
+      "name": "live",
+      "type": 0,
+      "url": "http://yun.yunqiji.vip/云vipzbtv.json",
+      "playerType": 1,
+      "epg": "http://epg.112114.xyz/?ch\u003d{name}\u0026date\u003d{date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    }
+  ],
+  "flags": [
+    "youku",
+    "qq",
+    "iqiyi",
+    "qiyi",
+    "letv",
+    "sohu",
+    "tudou",
+    "pptv",
+    "mgtv",
+    "cctv",
+    "cntv",
+    "wasu",
+    "bilibili",
+    "xigua",
+    "1905",
+    "1920i",
+    "1920l",
+    "mim3u8",
+    "laodim3u8",
+    "leduo",
+    "CL4K",
+    "ltnb",
+    "rx",
+    "renrenmi",
+    "wuduyun",
+    "xueren",
+    "naifeimi",
+    "miaoparty",
+    "miaoparty2",
+    "miaoparty3",
+    "xfy",
+    "xfyun",
+    "x1play",
+    "fuckapp",
+    "duoduozy",
+    "ftqp2",
+    "ftqp3",
+    "ftqp4",
+    "ftqp5"
+  ],
+  "ijk": [
+    {
+      "group": "软解码",
+      "options": [
+        {
+          "category": 4,
+          "name": "opensles",
+          "value": "0"
+        },
+        {
+          "name": "华数2",
+          "urls": [
+            "proxy://do\u003dlive\u0026type\u003dtxt\u0026ext\u003dhttp://127.0.0.1:9978/api/v1/file/drpy_dzlive/lives/华数2.m3u"
+          ]
+        },
+        {
+          "name": "杭州华数",
+          "urls": [
+            "proxy://do\u003dlive\u0026type\u003dtxt\u0026ext\u003dhttp://127.0.0.1:9978/api/v1/file/drpy_dzlive/lives/杭州华数.m3u"
+          ]
+        },
+        {
+          "name": "云星日记直播",
+          "urls": [
+            "proxy://do\u003dlive\u0026type\u003dtxt\u0026ext\u003dhttp://itvbox.cc/云星日记/Ipv4.txt"
+          ]
+        },
+        {
+          "name": "本地嗅探器直播",
+          "urls": [
+            "proxy://do\u003dlive\u0026type\u003dtxt\u0026ext\u003dhttp://yun.yunqiji.vip/云vipzbtv.json"
+          ]
+        }
+      ]
+    }
+  ]
+}
